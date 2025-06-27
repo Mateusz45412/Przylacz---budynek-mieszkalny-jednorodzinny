@@ -1,26 +1,26 @@
 # Przyłącz budynek mieszkalny jednorodzinny
 
-Celem projektu jest wykonanie przyłącza do budynku mieszkalnego jednorodzinnego.
-**Niektóre dane zamieszczone w projekcie zostały zmyślone jak np. warunki przyłączenia i mają służą wyłącznie celom edukacyjnym.
+Celem projektu jest wykonanie przyłącza do budynku mieszkalnego jednorodzinnego.  
+Niektóre dane zamieszczone w projekcie zostały zmyślone jak np. warunki przyłączenia i mają służyć wyłącznie celom edukacyjnym.
 
-Pozostała część projektu została wykonana zgodnie z obowiązującymi przepisami zasadami wiedzy technicznej.
+Pozostała część projektu została wykonana zgodnie z obowiązującymi przepisami i zasadami wiedzy technicznej.
 
-Repozytorium utworzone w celach edukacyjnych zawiera:
-- warunki przyłączenia
-- Stronę tytułową
-- opis techniczny
-- schemat zasilania
-- Obliczenia techniczne
-- Oświadczenie projektanta
-- mapy poglądowe wykorzystując https://powiatrzeszowski.geoportal2.pl/pl
-- Projekt zagospodarowania terenu
-- Mapa ewidencji gruntów
-- Elewacja złącza pomiarowego 
-- Zestawienie materiałów
-  
-Repozytorium nie zawiera:
-- Kopii pism i uzgodnień
-- Uprawnień budowlanych 
-- Wykaz umów cywilno-prawnych
-- Wypisu z rejestru gruntów
-- Zgody właścicieli działek
+## Repozytorium utworzone w celach edukacyjnych zawiera:
+- warunki przyłączenia  
+- stronę tytułową  
+- opis techniczny  
+- schemat zasilania  
+- obliczenia techniczne  
+- oświadczenie projektanta  
+- mapy poglądowe (wykorzystując [geoportal powiatu rzeszowskiego](https://powiatrzeszowski.geoportal2.pl/pl))  
+- projekt zagospodarowania terenu  
+- mapa ewidencji gruntów  
+- elewacja złącza pomiarowego  
+- zestawienie materiałów  
+
+## Repozytorium nie zawiera:
+- kopii pism i uzgodnień  
+- uprawnień budowlanych  
+- wykazu umów cywilno-prawnych  
+- wypisu z rejestru gruntów  
+- zgody właścicieli działek
