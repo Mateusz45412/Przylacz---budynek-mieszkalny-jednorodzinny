@@ -5,7 +5,7 @@ Niektóre dane zamieszczone w projekcie zostały zmyślone jak np. warunki przy�
 
 Pozostała część projektu została wykonana zgodnie z obowiązującymi przepisami i zasadami wiedzy technicznej.
 
-## Repozytorium utworzone w celach edukacyjnych zawiera:
+## Repozytorium zawiera:
 - warunki przyłączenia  
 - stronę tytułową  
 - opis techniczny  
