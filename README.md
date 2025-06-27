@@ -1,4 +1,4 @@
-# Przylacz---budynek-mieszkalny-jednorodzinny
+# Przyłącz budynek mieszkalny jednorodzinny
 
 Celem projektu jest wykonanie przyłącza do budynku mieszkalnego jednorodzinnego.
 Niektóre dane zamieszczone w projekcie w projekcie zostały zmyślone jak np. warunki przyłączenia i mają służą wyłącznie celom edukacyjnym.
